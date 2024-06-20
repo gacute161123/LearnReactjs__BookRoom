@@ -1,0 +1,67 @@
+{
+  "book-room": [
+    {
+      "id": "f6ed",
+      "time": "06 giờ",
+      "fullName": "gacute gacute",
+      "phone": "0983962340",
+      "email": "tranngoctien161123@gmail.com",
+      "services": [
+        "Thuê xe máy"
+      ],
+      "date": [
+        "13/06/2024",
+        "20/07/2024"
+      ]
+    }
+  ],
+  "rooms": [
+    {
+      "id": "075b",
+      "username": "Phòng 1",
+      "quantityBed": 2,
+      "quantityPeople": 4,
+      "description": "Sạch sẽ thoáng mát",
+      "utils": [
+        "wifi",
+        "Nóng lạnh",
+        "Điều hòa"
+      ],
+      "status": true,
+      "typeRoom": false
+    },
+    {
+      "id": "831a",
+      "username": "Phòng 2",
+      "quantityBed": 4,
+      "quantityPeople": 8,
+      "description": "Sạch sẽ thoáng mát",
+      "utils": [
+        "wifi",
+        "Nóng lạnh",
+        "Điều hòa"
+      ],
+      "status": true,
+      "typeRoom": true
+    },
+    {
+      "id": "c959",
+      "username": "Phòng 3",
+      "quantityBed": 1,
+      "quantityPeople": 1,
+      "status": true,
+      "typeRoom": true
+    },
+    {
+      "id": "252e",
+      "username": "Phòng 4",
+      "quantityBed": 1,
+      "quantityPeople": 1,
+      "utils": [
+        "Nóng lạnh"
+      ],
+      "status": true,
+      "typeRoom": false
+    }
+  ]
+}

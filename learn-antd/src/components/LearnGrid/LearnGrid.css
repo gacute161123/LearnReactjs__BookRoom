@@ -1,0 +1,12 @@
+.box{
+    background-color: palevioletred;
+}
+.slider-item{
+    padding: 50px 20px;
+    height: '160px';
+    color: #fff;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    background: #364d79;
+}
